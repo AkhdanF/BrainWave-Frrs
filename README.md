@@ -2,7 +2,6 @@
 
 A modern, responsive landing page for an AI service built with Vite, React, and Tailwind CSS, based on a tutorial by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).
 
-![BrainWave Screenshot](https://via.placeholder.com/800x400?text=BrainWave+AI+Service)
 
 ## 🧠 About BrainWave
 
