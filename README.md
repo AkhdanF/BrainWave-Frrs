@@ -26,11 +26,6 @@ BrainWave is a sleek, modern landing page template designed for AI services, mac
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-## 📋 Prerequisites
-
-- Node.js (v14.0.0 or later)
-- npm or yarn
-
 
 ## 🙏 Acknowledgements
 
